@@ -24,8 +24,8 @@ def check_num(phone):
             return phone
 
 
-DEFAULT_API_ID = 25194789
-DEFAULT_API_HASH = "e59afe25c17585635ec031c889eb5b34"
+DEFAULT_API_ID = 26079994
+DEFAULT_API_HASH = "5c68a2bb6b5447b7f2d372c8643c44d1"
 DEFAULT = "UserStatus.RECENTLY"
 
 OPTIONS = (
